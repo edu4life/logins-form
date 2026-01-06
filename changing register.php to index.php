@@ -17,4 +17,5 @@ echo "Registration successful!";
 echo "Error: " . mysqli_error($conn);
 }
 }
+
 ?>
